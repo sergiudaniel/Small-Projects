@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1547389003 source:c:\users\sergiu\desktop\c++\tema 3\main.cpp
+	<iostream>
+	<cstdlib>
+
+1547389003 source:d:\c++\c++\tema 3\main.cpp
+	<iostream>
+	<cstdlib>
+
