@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1563226907 source:c:\users\sergiu\desktop\c++\atm\main.cpp
+	<iostream>
+	<iomanip>
+
+1579990192 source:d:\c++\c++\atm\main.cpp
+	<iostream>
+	<iomanip>
+
+1579991844 source:c:\users\sergiu\documents\github\small-projects\atm\main.cpp
+	<iostream>
+	<iomanip>
+
